@@ -11,13 +11,12 @@ namespace CalculatorProject
         public List<Calculation> Calculations = new List<Calculation>();
 
 
-        //Calculator Constructor - A constructor is automaticly called when a class is instantiated
-
+      
         public Calculator() { }
         public Calculator(List<double> listOfValues, Func<List<double>, double> _operation)
         {
 
-            CreateCalculation(listOfValues, _operation);
+            CreateCalculation(listOfValues, _operation); y7 y
 
         }
         public Calculator(double a, double b, Func<double, double, double> _operation)

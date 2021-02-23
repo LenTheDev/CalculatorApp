@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsoleCalculatorSolution",
+    "\\ConsoleCalculatorSolution\\CalculatorProject",
+    "\\ConsoleCalculatorSolution\\CalculatorProjectTests",
+    "\\ConsoleCalculatorSolution\\CalculatorProject\\BulkOperations",
+    "\\ConsoleCalculatorSolution\\CalculatorProject\\CalculatorFunctions"
   ],
+  "SelectedNode": "\\ConsoleCalculatorSolution\\CalculatorProjectTests\\CalculatorTests.cs",
   "PreviewInSolutionExplorer": false
 }

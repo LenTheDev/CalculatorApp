@@ -4,6 +4,7 @@ using System.Text;
 
 namespace CalculatorProject.CalculatorFunctions
 {
+    //addition
     public class Addition
     {
         public static double Sum(double a, double b)
@@ -14,6 +15,7 @@ namespace CalculatorProject.CalculatorFunctions
         }
     }
 
+    //Subtraction
     public class Subtract
     {
         public static double Subtraction(double a, double b)
@@ -25,7 +27,7 @@ namespace CalculatorProject.CalculatorFunctions
       
     }
 
-    
+    //Multiplication
     public class Multiply
     {
         public static double Multiplication double a, double b)
@@ -37,7 +39,7 @@ namespace CalculatorProject.CalculatorFunctions
       
     }
 
-
+    //Division
     public class Divide
     {
         public static double Division(double a, double b, MidpointRounding)
