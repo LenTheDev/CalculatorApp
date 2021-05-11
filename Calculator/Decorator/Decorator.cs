@@ -4,22 +4,22 @@ using System.Text;
 using CalculatorProject;
 using Calculator;
 
-// Decorator Patter
-namespace CalcDecorator
+// Decorator Pattern
+ public CalcDecorator
 {
     class DecProgram
     {
         public static void 
     }
 
-    //Base Interface 
+    // Base Interface 
     public interface ICalculator
     {
         private double SumList();
 
     }
 
-    //concreate implementation
+    // concrete implementation
     class Calc : ICalculator
     {
         public double SumList();
@@ -28,12 +28,12 @@ namespace CalcDecorator
         }
     }
 
-//base decorator
+// base decorator
 class CalcDecorator : ICalculator
 {
     private ICalculator _calculator;
 
-    //constructor for decorator
+    // constructor for decorator
     public CalcDecorator(ICalculator _calculator);
     {
          _calculator = calculator;
