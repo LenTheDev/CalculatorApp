@@ -1,3 +1,11 @@
 # Calculator Application
-![Calc](https://user-images.githubusercontent.com/48297915/117819774-dddb1500-b237-11eb-858a-a27fad6b8830.png)
+
+## Project Overview 
+
+Calculator is required to perform the following operations. 
+Some features found within the calculator: 
+* Events created for user interaction and menu 
+* Model created when user executes a calculation
+* Interfaces created for calculations and math operations 
+* Math operations found within the calculator: addition, subtraction, multiplication, division, square, and square root. 
 
